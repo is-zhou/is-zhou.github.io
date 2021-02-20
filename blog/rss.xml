@@ -8,25 +8,11 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Welcome]]></title>
-            <link>https://zjiaahui.github.io/blog/welcome</link>
-            <guid>welcome</guid>
+            <title><![CDATA[Docusaurus2 快速建站部署GitHub Pages]]></title>
+            <link>https://zjiaahui.github.io/blog/Docusaurus2 快速建站部署GitHub Pages</link>
+            <guid>Docusaurus2 快速建站部署GitHub Pages</guid>
             <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hello]]></title>
-            <link>https://zjiaahui.github.io/blog/hello-world</link>
-            <guid>hello-world</guid>
-            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hola]]></title>
-            <link>https://zjiaahui.github.io/blog/hola</link>
-            <guid>hola</guid>
-            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
+            <description><![CDATA[Docusaurus2 可快速搭建文档、博客、官网等网站，并发布到 GitHub Pages。]]></description>
         </item>
     </channel>
 </rss>
