@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{72:function(s){s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Docusaurus2 \u5feb\u901f\u5efa\u7ad9\u90e8\u7f72GitHub Pages","permalink":"/blog/Docusaurus2 \u5feb\u901f\u5efa\u7ad9\u90e8\u7f72GitHub Pages"}]}')}}]);
