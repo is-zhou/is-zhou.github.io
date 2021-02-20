@@ -8,17 +8,17 @@
     <subtitle>zjiaahui Blog</subtitle>
     <icon>https://zjiaahui.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Hexo的Next主题美化设置]]></title>
-        <id>Hexo的Next主题美化设置</id>
-        <link href="https://zjiaahui.github.io/blog/Hexo的Next主题美化设置"/>
-        <updated>2019-05-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hexo搭建个人博客中的Next主题美化设置]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Docusaurus2 快速建站部署GitHub Pages]]></title>
         <id>Docusaurus2 快速建站部署GitHub Pages</id>
         <link href="https://zjiaahui.github.io/blog/Docusaurus2 快速建站部署GitHub Pages"/>
         <updated>2019-05-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Docusaurus2 可快速搭建文档、博客、官网等网站，并发布到 GitHub Pages。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hexo的Next主题美化设置]]></title>
+        <id>Hexo的Next主题美化设置</id>
+        <link href="https://zjiaahui.github.io/blog/Hexo的Next主题美化设置"/>
+        <updated>2019-05-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hexo搭建个人博客中的Next主题美化设置]]></summary>
     </entry>
 </feed>
