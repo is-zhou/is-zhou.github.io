@@ -14,5 +14,12 @@
             <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Docusaurus2 可快速搭建文档、博客、官网等网站，并发布到 GitHub Pages。]]></description>
         </item>
+        <item>
+            <title><![CDATA[Hexo的Next主题美化设置]]></title>
+            <link>https://zjiaahui.github.io/blog/Hexo的Next主题美化设置</link>
+            <guid>Hexo的Next主题美化设置</guid>
+            <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hexo搭建个人博客中的Next主题美化设置]]></description>
+        </item>
     </channel>
 </rss>
