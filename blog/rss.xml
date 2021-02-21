@@ -4,9 +4,23 @@
         <title>zjiaahui Blog</title>
         <link>https://zjiaahui.github.io/blog</link>
         <description>zjiaahui Blog</description>
-        <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jun 2019 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Git修改和配置本地用户名和邮箱]]></title>
+            <link>https://zjiaahui.github.io/blog/Git修改和配置本地用户名和邮箱</link>
+            <guid>Git修改和配置本地用户名和邮箱</guid>
+            <pubDate>Sun, 02 Jun 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Git修改和配置本地用户名和邮箱]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Web前端开发兼容性查询工具Can I use]]></title>
+            <link>https://zjiaahui.github.io/blog/Web前端开发兼容性查询工具Can I use</link>
+            <guid>Web前端开发兼容性查询工具Can I use</guid>
+            <pubDate>Sat, 01 Jun 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Web前端开发兼容性查询工具Can I use]]></description>
+        </item>
         <item>
             <title><![CDATA[Docusaurus2 快速建站部署GitHub Pages]]></title>
             <link>https://zjiaahui.github.io/blog/Docusaurus2 快速建站部署GitHub Pages</link>
