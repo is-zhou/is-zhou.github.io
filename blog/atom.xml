@@ -21,4 +21,11 @@
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hexo搭建个人博客中的Next主题美化设置]]></summary>
     </entry>
+    <entry>
+        <title type="html"><![CDATA[从零开始搭建个人博客-Hexo框架]]></title>
+        <id>从零开始搭建个人博客-Hexo框架</id>
+        <link href="https://zjiaahui.github.io/blog/从零开始搭建个人博客-Hexo框架"/>
+        <updated>2019-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[从零开始使用Hexo框架搭建个人博客，Hexo个人博客部署到GitHub]]></summary>
+    </entry>
 </feed>
