@@ -4,42 +4,49 @@
         <title>zjiaahui Blog</title>
         <link>https://zjiaahui.github.io/blog</link>
         <description>zjiaahui Blog</description>
-        <lastBuildDate>Sun, 02 Jun 2019 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jun 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[纯css实现打字机效果文字]]></title>
+            <link>https://zjiaahui.github.io/blog/css-typewriter</link>
+            <guid>css-typewriter</guid>
+            <pubDate>Wed, 03 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[纯css实现打字机效果文字]]></description>
+        </item>
         <item>
             <title><![CDATA[Web前端开发兼容性查询工具Can I use]]></title>
             <link>https://zjiaahui.github.io/blog/Web-can-i-use</link>
             <guid>Web-can-i-use</guid>
-            <pubDate>Sun, 02 Jun 2019 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 02 Jun 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Web前端开发兼容性查询工具Can I use]]></description>
         </item>
         <item>
             <title><![CDATA[Git修改和配置本地用户名和邮箱]]></title>
             <link>https://zjiaahui.github.io/blog/modify-config-git-ne</link>
             <guid>modify-config-git-ne</guid>
-            <pubDate>Sat, 01 Jun 2019 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Git修改和配置本地用户名和邮箱]]></description>
         </item>
         <item>
             <title><![CDATA[Docusaurus2 快速建站部署GitHub Pages]]></title>
             <link>https://zjiaahui.github.io/blog/quick-site-docusaurus2</link>
             <guid>quick-site-docusaurus2</guid>
-            <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
+            <pubDate>Sat, 30 May 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Docusaurus2快速搭建个人博客、官网、文档等网站，部署到GitHub Pages。]]></description>
         </item>
         <item>
             <title><![CDATA[Hexo的Next主题美化设置]]></title>
             <link>https://zjiaahui.github.io/blog/theme-next-hexo</link>
             <guid>theme-next-hexo</guid>
-            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
+            <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Hexo搭建个人博客中的Next主题美化设置]]></description>
         </item>
         <item>
             <title><![CDATA[从零开始搭建个人博客-Hexo框架]]></title>
             <link>https://zjiaahui.github.io/blog/quick-site-hexo</link>
             <guid>quick-site-hexo</guid>
-            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 28 May 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[从零开始使用Hexo框架搭建个人博客，Hexo个人博客部署到GitHub]]></description>
         </item>
     </channel>
