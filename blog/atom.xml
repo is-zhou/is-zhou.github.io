@@ -8,37 +8,37 @@
     <subtitle>zjiaahui Blog</subtitle>
     <icon>https://zjiaahui.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Git修改和配置本地用户名和邮箱]]></title>
-        <id>Git修改和配置本地用户名和邮箱</id>
-        <link href="https://zjiaahui.github.io/blog/Git修改和配置本地用户名和邮箱"/>
-        <updated>2019-06-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Git修改和配置本地用户名和邮箱]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web前端开发兼容性查询工具Can I use]]></title>
-        <id>Web前端开发兼容性查询工具Can I use</id>
-        <link href="https://zjiaahui.github.io/blog/Web前端开发兼容性查询工具Can I use"/>
-        <updated>2019-06-01T00:00:00.000Z</updated>
+        <id>Web-can-i-use</id>
+        <link href="https://zjiaahui.github.io/blog/Web-can-i-use"/>
+        <updated>2019-06-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Web前端开发兼容性查询工具Can I use]]></summary>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Git修改和配置本地用户名和邮箱]]></title>
+        <id>modify-config-git-ne</id>
+        <link href="https://zjiaahui.github.io/blog/modify-config-git-ne"/>
+        <updated>2019-06-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Git修改和配置本地用户名和邮箱]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Docusaurus2 快速建站部署GitHub Pages]]></title>
-        <id>Docusaurus2 快速建站部署GitHub Pages</id>
-        <link href="https://zjiaahui.github.io/blog/Docusaurus2 快速建站部署GitHub Pages"/>
+        <id>quick-site-docusaurus2</id>
+        <link href="https://zjiaahui.github.io/blog/quick-site-docusaurus2"/>
         <updated>2019-05-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Docusaurus2快速搭建个人博客、官网、文档等网站，部署到GitHub Pages。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hexo的Next主题美化设置]]></title>
-        <id>Hexo的Next主题美化设置</id>
-        <link href="https://zjiaahui.github.io/blog/Hexo的Next主题美化设置"/>
+        <id>theme-next-hexo</id>
+        <link href="https://zjiaahui.github.io/blog/theme-next-hexo"/>
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hexo搭建个人博客中的Next主题美化设置]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[从零开始搭建个人博客-Hexo框架]]></title>
-        <id>从零开始搭建个人博客-Hexo框架</id>
-        <link href="https://zjiaahui.github.io/blog/从零开始搭建个人博客-Hexo框架"/>
+        <id>quick-site-hexo</id>
+        <link href="https://zjiaahui.github.io/blog/quick-site-hexo"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[从零开始使用Hexo框架搭建个人博客，Hexo个人博客部署到GitHub]]></summary>
     </entry>
