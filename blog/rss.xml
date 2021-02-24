@@ -4,9 +4,30 @@
         <title>zjiaahui Blog</title>
         <link>https://zjiaahui.github.io/blog</link>
         <description>zjiaahui Blog</description>
-        <lastBuildDate>Wed, 03 Jun 2020 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jun 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CSS相邻块元素嵌套块元素垂直外边距合并问题]]></title>
+            <link>https://zjiaahui.github.io/blog/css-box-margin-hb</link>
+            <guid>css-box-margin-hb</guid>
+            <pubDate>Sun, 07 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[CSS相邻块元素嵌套块元素垂直外边距合并问题]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CSS盒子水平垂直居中常用的写法]]></title>
+            <link>https://zjiaahui.github.io/blog/css-box-center</link>
+            <guid>css-box-center</guid>
+            <pubDate>Sat, 06 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[CSS盒子水平垂直居中常用的几种方法]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CSS盒子模型（标准盒模型、怪异盒模型）]]></title>
+            <link>https://zjiaahui.github.io/blog/css-boxmodel</link>
+            <guid>css-boxmodel</guid>
+            <pubDate>Fri, 05 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[CSS盒子模型、标准盒模型、怪异盒模型]]></description>
+        </item>
         <item>
             <title><![CDATA[纯css实现打字机效果文字]]></title>
             <link>https://zjiaahui.github.io/blog/css-typewriter</link>
@@ -22,11 +43,11 @@
             <description><![CDATA[Web前端开发兼容性查询工具Can I use]]></description>
         </item>
         <item>
-            <title><![CDATA[Git修改和配置本地用户名和邮箱]]></title>
-            <link>https://zjiaahui.github.io/blog/modify-config-git-ne</link>
-            <guid>modify-config-git-ne</guid>
+            <title><![CDATA[前端开发基本环境配置]]></title>
+            <link>https://zjiaahui.github.io/blog/Web-env-config</link>
+            <guid>Web-env-config</guid>
             <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[Git修改和配置本地用户名和邮箱]]></description>
+            <description><![CDATA[前端开发基本环境配置]]></description>
         </item>
         <item>
             <title><![CDATA[MySQL8.0数据库软件下载及安装]]></title>
@@ -36,11 +57,11 @@
             <description><![CDATA[MySQL8.0数据库软件下载及安装]]></description>
         </item>
         <item>
-            <title><![CDATA[前端开发基本环境配置]]></title>
-            <link>https://zjiaahui.github.io/blog/Web-env-config</link>
-            <guid>Web-env-config</guid>
+            <title><![CDATA[Git修改和配置本地用户名和邮箱]]></title>
+            <link>https://zjiaahui.github.io/blog/modify-config-git-ne</link>
+            <guid>modify-config-git-ne</guid>
             <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[前端开发基本环境配置]]></description>
+            <description><![CDATA[Git修改和配置本地用户名和邮箱]]></description>
         </item>
         <item>
             <title><![CDATA[Docusaurus2 快速建站部署GitHub Pages]]></title>
