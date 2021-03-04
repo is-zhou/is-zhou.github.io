@@ -99,18 +99,18 @@
         <summary type="html"><![CDATA[前端开发基本环境配置]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Git修改和配置本地用户名和邮箱]]></title>
-        <id>modify-config-git-ne</id>
-        <link href="https://zjiaahui.github.io/blog/modify-config-git-ne"/>
-        <updated>2020-06-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Git修改和配置本地用户名和邮箱]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MySQL8.0数据库软件下载及安装]]></title>
         <id>mysql-da</id>
         <link href="https://zjiaahui.github.io/blog/mysql-da"/>
         <updated>2020-06-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[MySQL8.0数据库软件下载及安装]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git修改和配置本地用户名和邮箱]]></title>
+        <id>modify-config-git-ne</id>
+        <link href="https://zjiaahui.github.io/blog/modify-config-git-ne"/>
+        <updated>2020-06-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Git修改和配置本地用户名和邮箱]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Docusaurus2 快速建站部署GitHub Pages]]></title>
