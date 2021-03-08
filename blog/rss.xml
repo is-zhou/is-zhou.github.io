@@ -4,9 +4,16 @@
         <title>zjiaahui Blog</title>
         <link>https://zjiaahui.github.io/blog</link>
         <description>zjiaahui Blog</description>
-        <lastBuildDate>Thu, 04 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Mar 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[npm发布包运行npm publish 报403 404问题]]></title>
+            <link>https://zjiaahui.github.io/blog/npm-err-403404</link>
+            <guid>npm-err-403404</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[npm发布包运行npm publish 报403 404问题]]></description>
+        </item>
         <item>
             <title><![CDATA[webpack5.24.2和vue-loader15.9.6 配置文件中引入插件new VueLoaderPlugin()后打包报错]]></title>
             <link>https://zjiaahui.github.io/blog/webpack-err-compilationargumentmustbeaninstanceofCompilation</link>
@@ -99,6 +106,13 @@
             <description><![CDATA[Web前端开发兼容性查询工具Can I use]]></description>
         </item>
         <item>
+            <title><![CDATA[前端开发基本环境配置]]></title>
+            <link>https://zjiaahui.github.io/blog/Web-env-config</link>
+            <guid>Web-env-config</guid>
+            <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[前端开发基本环境配置]]></description>
+        </item>
+        <item>
             <title><![CDATA[Git修改和配置本地用户名和邮箱]]></title>
             <link>https://zjiaahui.github.io/blog/modify-config-git-ne</link>
             <guid>modify-config-git-ne</guid>
@@ -111,13 +125,6 @@
             <guid>mysql-da</guid>
             <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[MySQL8.0数据库软件下载及安装]]></description>
-        </item>
-        <item>
-            <title><![CDATA[前端开发基本环境配置]]></title>
-            <link>https://zjiaahui.github.io/blog/Web-env-config</link>
-            <guid>Web-env-config</guid>
-            <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[前端开发基本环境配置]]></description>
         </item>
         <item>
             <title><![CDATA[Docusaurus2 快速建站部署GitHub Pages]]></title>
