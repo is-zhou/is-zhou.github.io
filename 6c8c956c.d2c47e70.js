@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[46],{118:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"tiny-mce-5","name":"tinymce5","count":1,"permalink":"/blog/tags/tiny-mce-5"}')}}]);
