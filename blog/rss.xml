@@ -4,9 +4,23 @@
         <title>zjiaahui Blog</title>
         <link>https://zjiaahui.github.io/blog</link>
         <description>zjiaahui Blog</description>
-        <lastBuildDate>Mon, 15 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Mar 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JS简写小技巧，助你高效敲代码]]></title>
+            <link>https://zjiaahui.github.io/blog/js-jx</link>
+            <guid>js-jx</guid>
+            <pubDate>Wed, 31 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[vue router-link 点击时背景颜色问题]]></description>
+        </item>
+        <item>
+            <title><![CDATA[vue router-link 点击时背景颜色问题]]></title>
+            <link>https://zjiaahui.github.io/blog/vue-router-link-djys</link>
+            <guid>vue-router-link-djys</guid>
+            <pubDate>Tue, 16 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[vue router-link 点击时背景颜色问题]]></description>
+        </item>
         <item>
             <title><![CDATA[Vue 实现复制内容到剪贴板功能]]></title>
             <link>https://zjiaahui.github.io/blog/vue-copy</link>
@@ -176,18 +190,18 @@
             <description><![CDATA[Web前端开发兼容性查询工具Can I use]]></description>
         </item>
         <item>
-            <title><![CDATA[Git修改和配置本地用户名和邮箱]]></title>
-            <link>https://zjiaahui.github.io/blog/modify-config-git-ne</link>
-            <guid>modify-config-git-ne</guid>
-            <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[Git修改和配置本地用户名和邮箱]]></description>
-        </item>
-        <item>
             <title><![CDATA[MySQL8.0数据库软件下载及安装]]></title>
             <link>https://zjiaahui.github.io/blog/mysql-da</link>
             <guid>mysql-da</guid>
             <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[MySQL8.0数据库软件下载及安装]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Git修改和配置本地用户名和邮箱]]></title>
+            <link>https://zjiaahui.github.io/blog/modify-config-git-ne</link>
+            <guid>modify-config-git-ne</guid>
+            <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Git修改和配置本地用户名和邮箱]]></description>
         </item>
         <item>
             <title><![CDATA[前端开发基本环境配置]]></title>
