@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[113],{183:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"vue-cli-4","name":"vue cli 4","count":1,"permalink":"/blog/tags/vue-cli-4"}')}}]);
