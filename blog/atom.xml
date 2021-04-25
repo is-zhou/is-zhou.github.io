@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zjiaahui.github.io/blog</id>
     <title>zjiaahui Blog</title>
-    <updated>2021-03-31T00:00:00.000Z</updated>
+    <updated>2021-04-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zjiaahui.github.io/blog"/>
     <subtitle>zjiaahui Blog</subtitle>
     <icon>https://zjiaahui.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Vue2+TypeScript项目重写]]></title>
+        <id>Vue2-TypeScript</id>
+        <link href="https://zjiaahui.github.io/blog/Vue2-TypeScript"/>
+        <updated>2021-04-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[vue2+typescript项目重写]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JS简写小技巧，助你高效敲代码]]></title>
         <id>js-jx</id>

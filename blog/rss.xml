@@ -4,9 +4,16 @@
         <title>zjiaahui Blog</title>
         <link>https://zjiaahui.github.io/blog</link>
         <description>zjiaahui Blog</description>
-        <lastBuildDate>Wed, 31 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Apr 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Vue2+TypeScript项目重写]]></title>
+            <link>https://zjiaahui.github.io/blog/Vue2-TypeScript</link>
+            <guid>Vue2-TypeScript</guid>
+            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[vue2+typescript项目重写]]></description>
+        </item>
         <item>
             <title><![CDATA[JS简写小技巧，助你高效敲代码]]></title>
             <link>https://zjiaahui.github.io/blog/js-jx</link>
