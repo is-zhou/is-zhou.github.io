@@ -197,6 +197,13 @@
             <description><![CDATA[Web前端开发兼容性查询工具Can I use]]></description>
         </item>
         <item>
+            <title><![CDATA[MySQL8.0数据库软件下载及安装]]></title>
+            <link>https://zjiaahui.github.io/blog/mysql-da</link>
+            <guid>mysql-da</guid>
+            <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[MySQL8.0数据库软件下载及安装]]></description>
+        </item>
+        <item>
             <title><![CDATA[Git修改和配置本地用户名和邮箱]]></title>
             <link>https://zjiaahui.github.io/blog/modify-config-git-ne</link>
             <guid>modify-config-git-ne</guid>
@@ -209,13 +216,6 @@
             <guid>Web-env-config</guid>
             <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[前端开发基本环境配置]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MySQL8.0数据库软件下载及安装]]></title>
-            <link>https://zjiaahui.github.io/blog/mysql-da</link>
-            <guid>mysql-da</guid>
-            <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[MySQL8.0数据库软件下载及安装]]></description>
         </item>
         <item>
             <title><![CDATA[Docusaurus2 快速建站部署GitHub Pages]]></title>
