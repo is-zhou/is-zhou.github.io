@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zjiaahui.github.io/blog</id>
     <title>zjiaahui Blog</title>
-    <updated>2021-04-21T00:00:00.000Z</updated>
+    <updated>2021-05-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zjiaahui.github.io/blog"/>
     <subtitle>zjiaahui Blog</subtitle>
     <icon>https://zjiaahui.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Vue中为对象添加属性和值，属性更新了视图不更新this.$set(obj, key, value)]]></title>
+        <id>vue-this.$set</id>
+        <link href="https://zjiaahui.github.io/blog/vue-this.$set"/>
+        <updated>2021-05-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Vue中为对象添加属性和值，属性更新了视图不更新this.$set(obj, key, value)]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Vue2项目中使用TypeScript]]></title>
         <id>Vue2-TypeScript</id>
@@ -197,18 +204,18 @@
         <summary type="html"><![CDATA[Web前端开发兼容性查询工具Can I use]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端开发基本环境配置]]></title>
-        <id>Web-env-config</id>
-        <link href="https://zjiaahui.github.io/blog/Web-env-config"/>
-        <updated>2020-06-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[前端开发基本环境配置]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Git修改和配置本地用户名和邮箱]]></title>
         <id>modify-config-git-ne</id>
         <link href="https://zjiaahui.github.io/blog/modify-config-git-ne"/>
         <updated>2020-06-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Git修改和配置本地用户名和邮箱]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端开发基本环境配置]]></title>
+        <id>Web-env-config</id>
+        <link href="https://zjiaahui.github.io/blog/Web-env-config"/>
+        <updated>2020-06-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前端开发基本环境配置]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[MySQL8.0数据库软件下载及安装]]></title>

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[121],{191:function(g){g.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"gitignore","name":".gitignore","count":1,"permalink":"/blog/tags/gitignore"}')}}]);
