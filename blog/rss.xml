@@ -8,7 +8,7 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Vue2.X中将js迁移为TypeScript]]></title>
+            <title><![CDATA[Vue2.X中将js迁移为TypeScript步骤及注意点]]></title>
             <link>https://zjiaahui.github.io/blog/Vue2.X-ts</link>
             <guid>Vue2.X-ts</guid>
             <pubDate>Sun, 16 May 2021 00:00:00 GMT</pubDate>

@@ -8,7 +8,7 @@
     <subtitle>zjiaahui Blog</subtitle>
     <icon>https://zjiaahui.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Vue2.X中将js迁移为TypeScript]]></title>
+        <title type="html"><![CDATA[Vue2.X中将js迁移为TypeScript步骤及注意点]]></title>
         <id>Vue2.X-ts</id>
         <link href="https://zjiaahui.github.io/blog/Vue2.X-ts"/>
         <updated>2021-05-16T00:00:00.000Z</updated>
