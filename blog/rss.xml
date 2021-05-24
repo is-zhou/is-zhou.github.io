@@ -4,15 +4,29 @@
         <title>zjiaahui Blog</title>
         <link>https://zjiaahui.github.io/blog</link>
         <description>zjiaahui Blog</description>
-        <lastBuildDate>Mon, 10 May 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Vue2.X中将js迁移为TypeScript]]></title>
+            <link>https://zjiaahui.github.io/blog/Vue2.X-ts</link>
+            <guid>Vue2.X-ts</guid>
+            <pubDate>Sun, 16 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Vue2.X中将js迁移为TypeScript]]></description>
+        </item>
         <item>
             <title><![CDATA[Vue中为对象添加属性和值，属性更新了视图不更新this.$set(obj, key, value)]]></title>
             <link>https://zjiaahui.github.io/blog/vue-this.$set</link>
             <guid>vue-this.$set</guid>
             <pubDate>Mon, 10 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Vue中为对象添加属性和值，属性更新了视图不更新this.$set(obj, key, value)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[基于Vue2+TypeScript实现简单的夹娃娃游戏]]></title>
+            <link>https://zjiaahui.github.io/blog/vue-this.$set</link>
+            <guid>vue-this.$set</guid>
+            <pubDate>Mon, 10 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[基于Vue2+TypeScript实现简单的夹娃娃游戏]]></description>
         </item>
         <item>
             <title><![CDATA[在Vue2项目中使用TypeScript]]></title>
@@ -36,11 +50,11 @@
             <description><![CDATA[vue router-link 点击时背景颜色问题]]></description>
         </item>
         <item>
-            <title><![CDATA[Vue 实现复制内容到剪贴板功能]]></title>
+            <title><![CDATA[Vue 实现复制内容到剪贴板功能ios中复制无效怎么解决]]></title>
             <link>https://zjiaahui.github.io/blog/vue-copy</link>
             <guid>vue-copy</guid>
             <pubDate>Mon, 15 Mar 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[VUE 实现复制内容到剪贴板功能]]></description>
+            <description><![CDATA[VUE 实现复制内容到剪贴板功能,ios中复制无效怎么解决]]></description>
         </item>
         <item>
             <title><![CDATA[vue cli3.0 中有关.env;.env.development,.env.production的配置问题]]></title>
@@ -211,18 +225,18 @@
             <description><![CDATA[Git修改和配置本地用户名和邮箱]]></description>
         </item>
         <item>
-            <title><![CDATA[前端开发基本环境配置]]></title>
-            <link>https://zjiaahui.github.io/blog/Web-env-config</link>
-            <guid>Web-env-config</guid>
-            <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[前端开发基本环境配置]]></description>
-        </item>
-        <item>
             <title><![CDATA[MySQL8.0数据库软件下载及安装]]></title>
             <link>https://zjiaahui.github.io/blog/mysql-da</link>
             <guid>mysql-da</guid>
             <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[MySQL8.0数据库软件下载及安装]]></description>
+        </item>
+        <item>
+            <title><![CDATA[前端开发基本环境配置]]></title>
+            <link>https://zjiaahui.github.io/blog/Web-env-config</link>
+            <guid>Web-env-config</guid>
+            <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[前端开发基本环境配置]]></description>
         </item>
         <item>
             <title><![CDATA[Docusaurus2 快速建站部署GitHub Pages]]></title>
