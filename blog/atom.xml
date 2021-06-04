@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zjiaahui.github.io/blog</id>
     <title>zjiaahui Blog</title>
-    <updated>2021-05-16T00:00:00.000Z</updated>
+    <updated>2021-06-04T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zjiaahui.github.io/blog"/>
     <subtitle>zjiaahui Blog</subtitle>
     <icon>https://zjiaahui.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[vuecli3+脚手架创建的项目下批量删除console.log(xxx)]]></title>
+        <id>vuecli3_consolelog</id>
+        <link href="https://zjiaahui.github.io/blog/vuecli3_consolelog"/>
+        <updated>2021-06-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[vuecli3+脚手架创建的项目下批量删除console.log(xxx)]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vue2.X中将js迁移为TypeScript步骤及注意点]]></title>
         <id>Vue2.X-ts</id>
@@ -225,18 +232,18 @@
         <summary type="html"><![CDATA[Git修改和配置本地用户名和邮箱]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MySQL8.0数据库软件下载及安装]]></title>
-        <id>mysql-da</id>
-        <link href="https://zjiaahui.github.io/blog/mysql-da"/>
-        <updated>2020-06-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[MySQL8.0数据库软件下载及安装]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[前端开发基本环境配置]]></title>
         <id>Web-env-config</id>
         <link href="https://zjiaahui.github.io/blog/Web-env-config"/>
         <updated>2020-06-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[前端开发基本环境配置]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQL8.0数据库软件下载及安装]]></title>
+        <id>mysql-da</id>
+        <link href="https://zjiaahui.github.io/blog/mysql-da"/>
+        <updated>2020-06-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MySQL8.0数据库软件下载及安装]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Docusaurus2 快速建站部署GitHub Pages]]></title>
