@@ -4,9 +4,16 @@
         <title>zjiaahui Blog</title>
         <link>https://zjiaahui.github.io/blog</link>
         <description>zjiaahui Blog</description>
-        <lastBuildDate>Fri, 04 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021-06-08-解决 webpack-dev-server 不能使用 IP 访问]]></title>
+            <link>https://zjiaahui.github.io/blog/vuecli3_consolelog</link>
+            <guid>vuecli3_consolelog</guid>
+            <pubDate>Tue, 08 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[2021-06-08-解决 webpack-dev-server 不能使用 IP 访问#生成静态页面的关键字]]></description>
+        </item>
         <item>
             <title><![CDATA[vuecli3+脚手架创建的项目下批量删除console.log(xxx)]]></title>
             <link>https://zjiaahui.github.io/blog/vuecli3_consolelog</link>
