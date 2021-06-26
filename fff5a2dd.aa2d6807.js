@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[152],{223:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"vue-clipboard-2","name":"vue-clipboard2","count":1,"permalink":"/blog/tags/vue-clipboard-2"}')}}]);
