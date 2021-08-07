@@ -9,15 +9,15 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[如何给PNG图片的图形轮廓添加阴影而不是方正的盒子边缘]]></title>
-            <link>https://zjiaahui.github.io/blog/filter—drop-shadow</link>
-            <guid>filter—drop-shadow</guid>
+            <link>https://zjiaahui.github.io/blog/filter—drop-shadow-png-yy</link>
+            <guid>filter—drop-shadow-png-yy</guid>
             <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[如何给PNG图片的图形轮廓添加阴影而不是方正的盒子边缘]]></description>
         </item>
         <item>
             <title><![CDATA[我除了input默认使用就不会用的outline属性的妙用]]></title>
-            <link>https://zjiaahui.github.io/blog/webpack-dev-server_ip</link>
-            <guid>webpack-dev-server_ip</guid>
+            <link>https://zjiaahui.github.io/blog/input_outline_my</link>
+            <guid>input_outline_my</guid>
             <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[我除了input默认使用就不会用的outline属性的妙用]]></description>
         </item>
@@ -37,10 +37,17 @@
         </item>
         <item>
             <title><![CDATA[Vue2.X中将js迁移为TypeScript步骤及注意点]]></title>
-            <link>https://zjiaahui.github.io/blog/Vue2.X-ts</link>
-            <guid>Vue2.X-ts</guid>
+            <link>https://zjiaahui.github.io/blog/Vue2.X-ts-jsqy</link>
+            <guid>Vue2.X-ts-jsqy</guid>
             <pubDate>Sun, 16 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Vue2.X中将js迁移为TypeScript]]></description>
+        </item>
+        <item>
+            <title><![CDATA[基于Vue2+TypeScript实现简单的夹娃娃游戏]]></title>
+            <link>https://zjiaahui.github.io/blog/vue-this.$set—jww</link>
+            <guid>vue-this.$set—jww</guid>
+            <pubDate>Mon, 10 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[基于Vue2+TypeScript实现简单的夹娃娃游戏]]></description>
         </item>
         <item>
             <title><![CDATA[Vue中为对象添加属性和值，属性更新了视图不更新this.$set(obj, key, value)]]></title>
@@ -48,13 +55,6 @@
             <guid>vue-this.$set</guid>
             <pubDate>Mon, 10 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Vue中为对象添加属性和值，属性更新了视图不更新this.$set(obj, key, value)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基于Vue2+TypeScript实现简单的夹娃娃游戏]]></title>
-            <link>https://zjiaahui.github.io/blog/vue-this.$set</link>
-            <guid>vue-this.$set</guid>
-            <pubDate>Mon, 10 May 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[基于Vue2+TypeScript实现简单的夹娃娃游戏]]></description>
         </item>
         <item>
             <title><![CDATA[在Vue2项目中使用TypeScript]]></title>
@@ -253,18 +253,18 @@
             <description><![CDATA[Git修改和配置本地用户名和邮箱]]></description>
         </item>
         <item>
-            <title><![CDATA[MySQL8.0数据库软件下载及安装]]></title>
-            <link>https://zjiaahui.github.io/blog/mysql-da</link>
-            <guid>mysql-da</guid>
-            <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[MySQL8.0数据库软件下载及安装]]></description>
-        </item>
-        <item>
             <title><![CDATA[前端开发基本环境配置]]></title>
             <link>https://zjiaahui.github.io/blog/Web-env-config</link>
             <guid>Web-env-config</guid>
             <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[前端开发基本环境配置]]></description>
+        </item>
+        <item>
+            <title><![CDATA[MySQL8.0数据库软件下载及安装]]></title>
+            <link>https://zjiaahui.github.io/blog/mysql-da</link>
+            <guid>mysql-da</guid>
+            <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[MySQL8.0数据库软件下载及安装]]></description>
         </item>
         <item>
             <title><![CDATA[Docusaurus2 快速建站部署GitHub Pages]]></title>
