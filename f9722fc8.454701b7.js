@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[155],{227:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"drop-shadow","name":"drop-shadow","count":1,"permalink":"/blog/tags/drop-shadow"}')}}]);
