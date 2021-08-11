@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{79:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"vue-config-js","name":"vue.config.js","count":1,"permalink":"/blog/tags/vue-config-js"}')}}]);
