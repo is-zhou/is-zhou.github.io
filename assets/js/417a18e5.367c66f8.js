@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkzjiaahui_github_io=self.webpackChunkzjiaahui_github_io||[]).push([[3741],{2001:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"tiny-mce-5","name":"tinymce5","count":1,"permalink":"/blog/tags/tiny-mce-5"}')}}]);
