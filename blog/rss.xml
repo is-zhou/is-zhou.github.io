@@ -4,9 +4,268 @@
         <title>zjiaahui Blog</title>
         <link>https://zjiaahui.github.io/blog</link>
         <description>zjiaahui Blog</description>
-        <lastBuildDate>Sat, 30 May 2020 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[如何给PNG图片的图形轮廓添加阴影而不是方正的盒子边缘]]></title>
+            <link>https://zjiaahui.github.io/blog/filter—drop-shadow-png-yy</link>
+            <guid>filter—drop-shadow-png-yy</guid>
+            <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[如何给PNG图片的图形轮廓添加阴影而不是方正的盒子边缘]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我除了input默认使用就不会用的outline属性的妙用]]></title>
+            <link>https://zjiaahui.github.io/blog/input_outline_my</link>
+            <guid>input_outline_my</guid>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[我除了input默认使用就不会用的outline属性的妙用]]></description>
+        </item>
+        <item>
+            <title><![CDATA[解决 webpack-dev-server 不能使用 IP 访问]]></title>
+            <link>https://zjiaahui.github.io/blog/webpack-dev-server_ip</link>
+            <guid>webpack-dev-server_ip</guid>
+            <pubDate>Tue, 08 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[2021-06-08-解决 webpack-dev-server 不能使用 IP 访问#生成静态页面的关键字]]></description>
+        </item>
+        <item>
+            <title><![CDATA[vuecli3+脚手架创建的项目下批量删除console.log(xxx)]]></title>
+            <link>https://zjiaahui.github.io/blog/vuecli3_consolelog</link>
+            <guid>vuecli3_consolelog</guid>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[vuecli3+脚手架创建的项目下批量删除console.log(xxx)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Vue2.X中将js迁移为TypeScript步骤及注意点]]></title>
+            <link>https://zjiaahui.github.io/blog/Vue2.X-ts-jsqy</link>
+            <guid>Vue2.X-ts-jsqy</guid>
+            <pubDate>Sun, 16 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Vue2.X中将js迁移为TypeScript]]></description>
+        </item>
+        <item>
+            <title><![CDATA[基于Vue2+TypeScript实现简单的夹娃娃游戏]]></title>
+            <link>https://zjiaahui.github.io/blog/vue-this.$set—jww</link>
+            <guid>vue-this.$set—jww</guid>
+            <pubDate>Mon, 10 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[基于Vue2+TypeScript实现简单的夹娃娃游戏]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Vue中为对象添加属性和值，属性更新了视图不更新this.$set(obj, key, value)]]></title>
+            <link>https://zjiaahui.github.io/blog/vue-this.$set</link>
+            <guid>vue-this.$set</guid>
+            <pubDate>Mon, 10 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Vue中为对象添加属性和值，属性更新了视图不更新this.$set(obj, key, value)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在Vue2项目中使用TypeScript]]></title>
+            <link>https://zjiaahui.github.io/blog/Vue2-TypeScript</link>
+            <guid>Vue2-TypeScript</guid>
+            <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[在Vue2项目中使用TypeScript]]></description>
+        </item>
+        <item>
+            <title><![CDATA[JS简写小技巧，助你高效敲代码]]></title>
+            <link>https://zjiaahui.github.io/blog/js-jx</link>
+            <guid>js-jx</guid>
+            <pubDate>Wed, 31 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[vue router-link 点击时背景颜色问题]]></description>
+        </item>
+        <item>
+            <title><![CDATA[vue router-link 点击时背景颜色问题]]></title>
+            <link>https://zjiaahui.github.io/blog/vue-router-link-djys</link>
+            <guid>vue-router-link-djys</guid>
+            <pubDate>Tue, 16 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[vue router-link 点击时背景颜色问题]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Vue 实现复制内容到剪贴板功能ios中复制无效怎么解决]]></title>
+            <link>https://zjiaahui.github.io/blog/vue-copy</link>
+            <guid>vue-copy</guid>
+            <pubDate>Mon, 15 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[VUE 实现复制内容到剪贴板功能,ios中复制无效怎么解决]]></description>
+        </item>
+        <item>
+            <title><![CDATA[vue cli3.0 中有关.env;.env.development,.env.production的配置问题]]></title>
+            <link>https://zjiaahui.github.io/blog/vue-cli-prod-deve</link>
+            <guid>vue-cli-prod-deve</guid>
+            <pubDate>Sun, 14 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[vue cli3.0 中有关.env;.env.development,.env.production的配置问题]]></description>
+        </item>
+        <item>
+            <title><![CDATA[vue cli3.0 vue.config.js 配置跨域]]></title>
+            <link>https://zjiaahui.github.io/blog/vue-ky</link>
+            <guid>vue-ky</guid>
+            <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[vue cli3.0 vue.config.js 配置跨域]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Vue CLI 4 + tinymce 5 富文本编辑器整合]]></title>
+            <link>https://zjiaahui.github.io/blog/VueCLI4_tinymce5</link>
+            <guid>VueCLI4_tinymce5</guid>
+            <pubDate>Fri, 12 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Vue CLI 4 + tinymce 5 富文本编辑器整合]]></description>
+        </item>
+        <item>
+            <title><![CDATA[TinyMCE在Vue element的dialog被遮挡的问题解决办法]]></title>
+            <link>https://zjiaahui.github.io/blog/TinyMCE-Vue-dialog</link>
+            <guid>TinyMCE-Vue-dialog</guid>
+            <pubDate>Thu, 11 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[TinyMCE在Vue element的dialog被遮挡的问题解决办法]]></description>
+        </item>
+        <item>
+            <title><![CDATA[npm code 128 从github上clone下来的项目执行npm i 时报code 128错误]]></title>
+            <link>https://zjiaahui.github.io/blog/npm-code-128</link>
+            <guid>npm-code-128</guid>
+            <pubDate>Wed, 10 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[npm code 128 从github上clone下来的项目执行npm i 时报code 128错误]]></description>
+        </item>
+        <item>
+            <title><![CDATA[nodejs 实现图片验证码（svg-captcha）]]></title>
+            <link>https://zjiaahui.github.io/blog/nodejs_svg-captcha</link>
+            <guid>nodejs_svg-captcha</guid>
+            <pubDate>Tue, 09 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[nodejs 实现图片验证码（svg-captcha）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Node.js Mysql8客户端不支持认证协议引发的“ER_NOT_SUPPORTED_AUTH_MODE”问题]]></title>
+            <link>https://zjiaahui.github.io/blog/Node-Mysql8-ER_NOT_SUPPORTED_AUTH_MODE</link>
+            <guid>Node-Mysql8-ER_NOT_SUPPORTED_AUTH_MODE</guid>
+            <pubDate>Mon, 08 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Node.js Mysql8客户端不支持认证协议引发的“ER_NOT_SUPPORTED_AUTH_MODE”问题]]></description>
+        </item>
+        <item>
+            <title><![CDATA[element-ui框架的el-dialog弹出框被遮罩层挡住了解决方法]]></title>
+            <link>https://zjiaahui.github.io/blog/element-ui-el-dialog-zindex</link>
+            <guid>element-ui-el-dialog-zindex</guid>
+            <pubDate>Sun, 07 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[element-ui框架的el-dialog弹出框被遮罩层挡住了解决方法]]></description>
+        </item>
+        <item>
+            <title><![CDATA[npm安装nrm来管理和快速切换npm下载源]]></title>
+            <link>https://zjiaahui.github.io/blog/npm-i-nrm</link>
+            <guid>npm-i-nrm</guid>
+            <pubDate>Sat, 06 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[通过nrm来管理和快速切换npm下载源]]></description>
+        </item>
+        <item>
+            <title><![CDATA[npm发布包运行npm publish 报403 404问题]]></title>
+            <link>https://zjiaahui.github.io/blog/npm-err-403404</link>
+            <guid>npm-err-403404</guid>
+            <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[npm发布包运行npm publish 报403 404问题]]></description>
+        </item>
+        <item>
+            <title><![CDATA[webpack5.24.2和vue-loader15.9.6 配置文件中引入插件new VueLoaderPlugin()后打包报错]]></title>
+            <link>https://zjiaahui.github.io/blog/webpack-err-compilationargumentmustbeaninstanceofCompilation</link>
+            <guid>webpack-err-compilationargumentmustbeaninstanceofCompilation</guid>
+            <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[webpack报错  webpack5.24.2和vue-loader15.9.6 new VueLoaderPlugin()后打包报错]]></description>
+        </item>
+        <item>
+            <title><![CDATA[webpack因HtmlWebpackPlugin报TypeError The compilation argument must be an instance of Compilation解决办法]]></title>
+            <link>https://zjiaahui.github.io/blog/webpack-err-HtmlWebpackPlugin-compilationargumentmustbeaninstanceofCompilation</link>
+            <guid>webpack-err-HtmlWebpackPlugin-compilationargumentmustbeaninstanceofCompilation</guid>
+            <pubDate>Wed, 03 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[webpack报错  webpack因HtmlWebpackPlugin报TypeError The compilation argument must be an instance of Compilation]]></description>
+        </item>
+        <item>
+            <title><![CDATA[设置了margin为0后为什么两个button还是存在空隙?]]></title>
+            <link>https://zjiaahui.github.io/blog/css-margin0hyjx</link>
+            <guid>css-margin0hyjx</guid>
+            <pubDate>Sat, 13 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[设置了margin为0后为什么两个DIV还是存在空隙?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[webpack打包报错 TypeError：Cannot read property ‘tap‘ of undefined]]></title>
+            <link>https://zjiaahui.github.io/blog/webpack-err-tapofundefined</link>
+            <guid>webpack-err-tapofundefined</guid>
+            <pubDate>Fri, 12 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[webpack报错 TypeError：Cannot read property ‘tap‘ of undefined]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Git忽略上传.gitignore设置文件]]></title>
+            <link>https://zjiaahui.github.io/blog/gitignore</link>
+            <guid>gitignore</guid>
+            <pubDate>Thu, 11 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Git忽略上传.gitignore设置文件]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CSS实现画三角形]]></title>
+            <link>https://zjiaahui.github.io/blog/csssjx</link>
+            <guid>csssjx</guid>
+            <pubDate>Wed, 10 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[纯CSS实现画三角形]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CSS定位属性详解]]></title>
+            <link>https://zjiaahui.github.io/blog/css-position</link>
+            <guid>css-position</guid>
+            <pubDate>Tue, 09 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[CSS定位、相对定位、决对定位、固定定位]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CSS浮动清除浮动对父元素高度的影响]]></title>
+            <link>https://zjiaahui.github.io/blog/css-box-float-yx</link>
+            <guid>css-box-float-yx</guid>
+            <pubDate>Mon, 08 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[CSS浮动、css浮动对父元素高度的影响及解决办法]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CSS相邻块元素嵌套块元素垂直外边距合并问题]]></title>
+            <link>https://zjiaahui.github.io/blog/css-box-margin-hb</link>
+            <guid>css-box-margin-hb</guid>
+            <pubDate>Sun, 07 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[CSS相邻块元素嵌套块元素垂直外边距合并问题]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CSS盒子水平垂直居中常用的写法]]></title>
+            <link>https://zjiaahui.github.io/blog/css-box-center</link>
+            <guid>css-box-center</guid>
+            <pubDate>Sat, 06 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[CSS盒子水平垂直居中常用的几种方法]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CSS盒子模型（标准盒模型、怪异盒模型）]]></title>
+            <link>https://zjiaahui.github.io/blog/css-boxmodel</link>
+            <guid>css-boxmodel</guid>
+            <pubDate>Fri, 05 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[CSS盒子模型、标准盒模型、怪异盒模型]]></description>
+        </item>
+        <item>
+            <title><![CDATA[纯css实现打字机效果文字]]></title>
+            <link>https://zjiaahui.github.io/blog/css-typewriter</link>
+            <guid>css-typewriter</guid>
+            <pubDate>Wed, 03 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[纯css实现打字机效果文字]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Web前端开发兼容性查询工具Can I use]]></title>
+            <link>https://zjiaahui.github.io/blog/Web-can-i-use</link>
+            <guid>Web-can-i-use</guid>
+            <pubDate>Tue, 02 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Web前端开发兼容性查询工具Can I use]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Git修改和配置本地用户名和邮箱]]></title>
+            <link>https://zjiaahui.github.io/blog/modify-config-git-ne</link>
+            <guid>modify-config-git-ne</guid>
+            <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Git修改和配置本地用户名和邮箱]]></description>
+        </item>
+        <item>
+            <title><![CDATA[前端开发基本环境配置]]></title>
+            <link>https://zjiaahui.github.io/blog/Web-env-config</link>
+            <guid>Web-env-config</guid>
+            <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[前端开发基本环境配置]]></description>
+        </item>
+        <item>
+            <title><![CDATA[MySQL8.0数据库软件下载及安装]]></title>
+            <link>https://zjiaahui.github.io/blog/mysql-da</link>
+            <guid>mysql-da</guid>
+            <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[MySQL8.0数据库软件下载及安装]]></description>
+        </item>
         <item>
             <title><![CDATA[Docusaurus2 快速建站部署GitHub Pages]]></title>
             <link>https://zjiaahui.github.io/blog/quick-site-docusaurus2</link>

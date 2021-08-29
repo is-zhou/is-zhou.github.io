@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzjiaahui_github_io_source=self.webpackChunkzjiaahui_github_io_source||[]).push([[8637],{5472:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"\u5939\u5a03\u5a03","name":"\u5939\u5a03\u5a03","count":1,"permalink":"/blog/tags/\u5939\u5a03\u5a03"}')}}]);
