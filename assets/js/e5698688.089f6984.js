@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzjiaahui_github_io_source=self.webpackChunkzjiaahui_github_io_source||[]).push([[6],{2537:function(u){u.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/router-link","name":"router-link","count":1,"permalink":"/blog/tags/router-link"}')}}]);

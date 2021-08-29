@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkzjiaahui_github_io_source=self.webpackChunkzjiaahui_github_io_source||[]).push([[2905],{3267:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"type-script","name":"typescript","count":3,"permalink":"/blog/tags/type-script"}')}}]);

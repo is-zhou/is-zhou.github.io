@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzjiaahui_github_io_source=self.webpackChunkzjiaahui_github_io_source||[]).push([[727],{9027:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/git","name":"Git","count":2,"permalink":"/blog/tags/git"}')}}]);

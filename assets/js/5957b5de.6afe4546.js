@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzjiaahui_github_io_source=self.webpackChunkzjiaahui_github_io_source||[]).push([[5715],{8298:function(u){u.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/vue","name":"Vue","count":7,"permalink":"/blog/tags/vue"}')}}]);

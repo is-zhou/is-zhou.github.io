@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkzjiaahui_github_io_source=self.webpackChunkzjiaahui_github_io_source||[]).push([[520],{1083:function(i){i.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"gitignore","name":".gitignore","count":1,"permalink":"/blog/tags/gitignore"}')}}]);
