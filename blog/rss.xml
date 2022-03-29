@@ -4,9 +4,16 @@
         <title>zjiaahui Blog</title>
         <link>https://zjiaahui.github.io/blog</link>
         <description>zjiaahui Blog</description>
-        <lastBuildDate>Fri, 18 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[npm run xxx 的打工之旅，它到底干了什么？]]></title>
+            <link>https://zjiaahui.github.io/blog/npm_run_wonderful_journey</link>
+            <guid>npm_run_wonderful_journey</guid>
+            <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[运行 npm run xxx 之后发生了什么]]></description>
+        </item>
         <item>
             <title><![CDATA[如何给PNG图片的图形轮廓添加阴影而不是方正的盒子边缘]]></title>
             <link>https://zjiaahui.github.io/blog/filter—drop-shadow-png-yy</link>

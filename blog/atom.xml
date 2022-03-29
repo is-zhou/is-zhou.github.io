@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zjiaahui.github.io/blog</id>
     <title>zjiaahui Blog</title>
-    <updated>2021-06-18T00:00:00.000Z</updated>
+    <updated>2022-03-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zjiaahui.github.io/blog"/>
     <subtitle>zjiaahui Blog</subtitle>
     <icon>https://zjiaahui.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[npm run xxx 的打工之旅，它到底干了什么？]]></title>
+        <id>npm_run_wonderful_journey</id>
+        <link href="https://zjiaahui.github.io/blog/npm_run_wonderful_journey"/>
+        <updated>2022-03-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[运行 npm run xxx 之后发生了什么]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何给PNG图片的图形轮廓添加阴影而不是方正的盒子边缘]]></title>
         <id>filter—drop-shadow-png-yy</id>
