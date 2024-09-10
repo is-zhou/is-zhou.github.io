@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://is-zhou.github.io/blog</id>
-    <title>zhouzhou Blog</title>
+    <title>is-zhou Blog</title>
     <updated>2022-03-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://is-zhou.github.io/blog"/>
-    <subtitle>zhouzhou Blog</subtitle>
+    <subtitle>is-zhou Blog</subtitle>
     <icon>https://is-zhou.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[npm run xxx 的打工之旅，它到底干了什么？]]></title>

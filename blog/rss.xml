@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>zhouzhou Blog</title>
+        <title>is-zhou Blog</title>
         <link>https://is-zhou.github.io/blog</link>
-        <description>zhouzhou Blog</description>
+        <description>is-zhou Blog</description>
         <lastBuildDate>Tue, 29 Mar 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
