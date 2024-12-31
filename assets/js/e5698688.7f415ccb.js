@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkis_zhou_github_io_source=self.webpackChunkis_zhou_github_io_source||[]).push([[6],{2537:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/router-link","name":"router-link","count":1,"permalink":"/blog/tags/router-link"}')}}]);

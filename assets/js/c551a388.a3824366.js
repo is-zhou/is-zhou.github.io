@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkis_zhou_github_io_source=self.webpackChunkis_zhou_github_io_source||[]).push([[8639],{6839:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/\u56fe\u7247\u9a8c\u8bc1\u7801","name":"\u56fe\u7247\u9a8c\u8bc1\u7801","count":1,"permalink":"/blog/tags/\u56fe\u7247\u9a8c\u8bc1\u7801"}')}}]);

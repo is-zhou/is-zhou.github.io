@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkis_zhou_github_io_source=self.webpackChunkis_zhou_github_io_source||[]).push([[1021],{8639:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/vue-clipboard-2","name":"vue-clipboard2","count":1,"permalink":"/blog/tags/vue-clipboard-2"}')}}]);

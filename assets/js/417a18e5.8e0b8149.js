@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkis_zhou_github_io_source=self.webpackChunkis_zhou_github_io_source||[]).push([[3741],{2001:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/tiny-mce-5","name":"TinyMCE5","count":1,"permalink":"/blog/tags/tiny-mce-5"}')}}]);

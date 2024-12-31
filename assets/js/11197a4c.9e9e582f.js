@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkis_zhou_github_io_source=self.webpackChunkis_zhou_github_io_source||[]).push([[9240],{4385:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/vue-cli-4","name":"Vue CLI 4","count":1,"permalink":"/blog/tags/vue-cli-4"}')}}]);

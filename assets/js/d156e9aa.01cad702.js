@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkis_zhou_github_io_source=self.webpackChunkis_zhou_github_io_source||[]).push([[6885],{6895:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/webpack-dev-server","name":"webpack-dev-server","count":1,"permalink":"/blog/tags/webpack-dev-server"}')}}]);

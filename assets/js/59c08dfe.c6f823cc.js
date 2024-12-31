@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkis_zhou_github_io_source=self.webpackChunkis_zhou_github_io_source||[]).push([[520],{1083:function(g){g.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/gitignore","name":".gitignore","count":1,"permalink":"/blog/tags/gitignore"}')}}]);
